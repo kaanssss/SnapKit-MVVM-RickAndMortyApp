@@ -1,0 +1,6 @@
+framework module Pods_SnapKit_MVVM_RickAndMorty {
+  umbrella header "Pods-SnapKit MVVM RickAndMorty-umbrella.h"
+
+  export *
+  module * { export * }
+}
